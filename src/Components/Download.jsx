@@ -14,6 +14,7 @@ const Download = () => {
           app integration.
         </p>
         <Button text="Download Now" textc={'white'} color={'black'} />
+<Button text="Download Now" textc={'white'} color={'black'} />
         <Button text="Download Now" textc={'white'} color={'black'} />
         <img className="mt-6" src="../public/images/cyclem.png" alt="" />
       </div>
