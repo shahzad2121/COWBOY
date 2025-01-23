@@ -12,6 +12,7 @@ const Hero = () => {
         <Navbar />
 
 
+
         <div className="flex items-center justify-between">
         <div>
           <div className="w-[60%] pl-14">
