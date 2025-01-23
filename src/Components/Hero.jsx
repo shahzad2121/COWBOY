@@ -8,6 +8,8 @@ const Hero = () => {
       <div className="w-full h-screen bg-[#E6DAC0]">
         <Navbar />
         <Navbar />
+        <Navbar />
+        <Navbar />
 
         <div className="flex items-center justify-between">
         <div>
