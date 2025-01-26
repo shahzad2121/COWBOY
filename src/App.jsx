@@ -18,6 +18,10 @@ const App = () => {
     <Model />
     <Download />
     <Video />
+    <Hero />
+    <Model />
+    <Download />
+    <Video />
     </div>
     </>
   )
